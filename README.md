@@ -125,14 +125,4 @@ All experimental results are saved in the `saved_results/` directory:
 
 Generated figures are saved in the `Figures/` directory.
 
-## Citation
 
-If you use this project, please cite the relevant paper (please add specific citation information).
-
-## License
-
-Please see the LICENSE file (if it exists) or add license information.
-
-## Contact
-
-For questions or suggestions, please contact via GitHub Issues.
